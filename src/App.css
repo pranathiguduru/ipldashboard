@@ -1,0 +1,10 @@
+.App {
+  text-align: left;
+  padding: 20px;
+}
+.won-card {
+  background-color: #4A9612;
+}
+.lost-card {
+  background-color: #751010;
+}
