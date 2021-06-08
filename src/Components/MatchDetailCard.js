@@ -3,7 +3,8 @@ import {Link} from 'react-router-dom'
 import "./MatchDetailCard.css"
 
 export const MatchDetailCard = ({match, teamName}) => {
- 
+
+
     if (!match) return null;
     const otherTeam = match.team1 === teamName ? match.team2 : match.team1;
     const otherTeamRoute = `/teams/${otherTeam}`;

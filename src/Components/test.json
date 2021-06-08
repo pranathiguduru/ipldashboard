@@ -1,0 +1,72 @@
+{
+    "id": 1,
+    "teamName": "Mumbai Indians",
+    "totalMatches": 203,
+    "totalWins": 120,
+    "matches": [
+        {
+            "id": 1237181,
+            "city": "Dubai",
+            "date": "2020-11-10",
+            "playerOfMatch": "TA Boult",
+            "venue": "Dubai International Cricket Stadium",
+            "team1": "Delhi Capitals",
+            "team2": "Mumbai Indians",
+            "tossWinner": "Delhi Capitals",
+            "tossDecision": "bat",
+            "result": "wickets",
+            "result_margin": "5",
+            "umpire1": "CB Gaffaney",
+            "umpire2": "Nitin Menon",
+            "matchWinner": "Mumbai Indians"
+        },
+        {
+            "id": 1237177,
+            "city": "Dubai",
+            "date": "2020-11-05",
+            "playerOfMatch": "JJ Bumrah",
+            "venue": "Dubai International Cricket Stadium",
+            "team1": "Mumbai Indians",
+            "team2": "Delhi Capitals",
+            "tossWinner": "Delhi Capitals",
+            "tossDecision": "field",
+            "result": "runs",
+            "result_margin": "57",
+            "umpire1": "CB Gaffaney",
+            "umpire2": "Nitin Menon",
+            "matchWinner": "Mumbai Indians"
+        },
+        {
+            "id": 1216495,
+            "city": "Sharjah",
+            "date": "2020-11-03",
+            "playerOfMatch": "S Nadeem",
+            "venue": "Sharjah Cricket Stadium",
+            "team1": "Mumbai Indians",
+            "team2": "Sunrisers Hyderabad",
+            "tossWinner": "Sunrisers Hyderabad",
+            "tossDecision": "field",
+            "result": "wickets",
+            "result_margin": "10",
+            "umpire1": "C Shamshuddin",
+            "umpire2": "RK Illingworth",
+            "matchWinner": "Sunrisers Hyderabad"
+        },
+        {
+            "id": 1216535,
+            "city": "Dubai",
+            "date": "2020-10-31",
+            "playerOfMatch": "Ishan Kishan",
+            "venue": "Dubai International Cricket Stadium",
+            "team1": "Delhi Capitals",
+            "team2": "Mumbai Indians",
+            "tossWinner": "Mumbai Indians",
+            "tossDecision": "field",
+            "result": "wickets",
+            "result_margin": "9",
+            "umpire1": "YC Barde",
+            "umpire2": "PR Reiffel",
+            "matchWinner": "Mumbai Indians"
+        }
+    ]
+}
