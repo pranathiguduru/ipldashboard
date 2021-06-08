@@ -26,13 +26,13 @@ export const MatchPage = () => {
     
       <div className="YearSelector">
       <h3>Select Year</h3>
-        <YearSelector teamName = {teamName} />
+        <YearSelector key = {year} teamName = {teamName} />
       </div>
      
 <div>
 <h1 className="Page-heading">{teamName} matches in {year}</h1>
      {
-      matches.map(match => <MatchDetailCard teamName={teamName} match={match} />)
+      matches.map(match => <MatchDetailCard key = {match.id} teamName={teamName} match={match} />)
       }
 </div>
     </div>
